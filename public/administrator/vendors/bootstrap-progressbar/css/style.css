@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.ziti{
+	height: 50px;
+	line-height: 50px;
+	border:1px solid #ddd;
+	font-size: 20px;
+	text-align: center;
+	color: #666;
+}
+.juti{
+	height: 50px;
+	line-height: 50px;
+	border:1px solid #ddd;
+	border-top:none;
+	text-align: center;
+	font-size: 18px;
+	color: #999;
+}
+.top{
+	width: inherit;
+	height: 30px;
+}
